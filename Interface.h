@@ -1,7 +1,5 @@
-#include <iostream>
-#include <string>
-#include <algorithm>
-using namespace std;
+#pragma once
+#include "Resource.h"
 
 
 //Cellular Automata 방식 구현
